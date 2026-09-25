@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary / editor
+*.tmp
+*.bak
+*~
+.vscode/
+.idea/
+
+# Large media
+*.mp4
+*.mov
+*.avi
+
+# Sensitive
+*.key
+*.pem
+credentials*
+*.env
